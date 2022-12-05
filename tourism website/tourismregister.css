@@ -1,0 +1,33 @@
+
+.box{
+
+    
+    background-image: url(./tourismregisterimg/headimg.jpg);
+   background-color: rgb(255, 255, 255);
+    width: 50em;
+    height: 40em;
+    margin-top: 4em;
+    margin-left: 8em;
+}
+
+#backimg{
+
+   background-color: rgb(255, 255, 255);
+   /* background-image: url(./tourismregisterimg/carosel3.jpg); */
+}
+
+#form{
+    width: 30em;
+    margin-left: 10em;
+}
+
+#head1{
+
+    padding-left: 5em;
+    padding-top: 2em;
+}
+
+#navb{
+
+    margin-top: 2em;
+}

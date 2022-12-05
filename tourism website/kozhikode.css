@@ -1,0 +1,34 @@
+
+
+.backimg{
+
+    background-image: url(./kozhikodeimg/photo-1580046345567-8b5d44d8cbab.avif);
+    width: 110m;
+    height: 40em;
+    background-repeat: no-repeat;
+}
+
+.card-wrapper{
+
+    display: flex;
+
+}
+.card{
+
+    margin: 0.5em;
+    width: calc(100%/3);
+}
+
+#card1{
+
+    margin-top: -30em;
+}
+
+#kozhikode{
+
+    margin-left: 20px;
+    padding-top: 0.2em;
+    font-weight: bolder;
+    font-size: 100px;
+    font-style: italic;
+}

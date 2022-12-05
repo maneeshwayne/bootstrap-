@@ -1,0 +1,47 @@
+
+
+.backimgAlappuzha{
+
+    /* background-image: url(./AlappuzhaIMG/alleppey-abhisheka-kumar-wikicommons.webp); */
+    width: 110m;
+    height: 40em;
+    background-repeat: no-repeat;
+    background-color: rgb(85, 169, 242);
+}
+
+.card-wrapper{
+
+    display: flex;
+
+}
+.card{
+
+    margin: 0.5em;
+    width: calc(100%/3);
+}
+
+#card1{
+
+    margin-top: -30em;
+}
+
+#kochi{
+
+    padding-left: em;
+    padding-top: 0.1em;
+    font-weight: bolder;
+    font-size: 80px;
+    font-style: italic;
+    color: white;
+}
+
+/* 
+#dropdown{
+
+    margin-top: em;
+} */
+
+#navb{
+
+    margin-top: 2em;
+}

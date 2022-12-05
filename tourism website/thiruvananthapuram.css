@@ -1,0 +1,34 @@
+
+
+.backimg{
+
+    background-image: url(./thiruvananthapuramimg/thiruvananthapuram-india-shutterstock_498424870_54ec620099.jpeg);
+    width: 110m;
+    height: 40em;
+    background-repeat: no-repeat;
+}
+
+.card-wrapper{
+
+    display: flex;
+
+}
+.card{
+
+    margin: 0.5em;
+    width: calc(100%/3);
+}
+
+#card1{
+
+    margin-top: -30em;
+}
+
+#kochi{
+
+    padding-left: 5em;
+    padding-top: 0.1em;
+    font-weight: bolder;
+    font-size: 50px;
+    font-style: italic;
+}

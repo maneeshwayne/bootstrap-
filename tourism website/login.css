@@ -1,0 +1,38 @@
+
+
+#hedclr{
+
+    background-color: rgb(158, 158, 185);
+    margin-top: 4em;
+    height: 30em;
+
+}
+
+#emilinput{
+
+    width: 28em;
+    margin-left: 19em;
+    padding-top: 4em;
+    margin-top: -3em;
+}
+
+#remember{
+
+    padding-left: 15em;
+}
+
+#forgot{
+
+    margin-left: 5em;
+}
+
+#sign{
+
+    margin-left: 23em;
+    width: 20em;
+}
+
+#navb{
+
+    margin-top: 2em;
+}

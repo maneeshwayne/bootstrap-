@@ -1,0 +1,189 @@
+#backimg{
+    background-image:url(./italian-penne-pasta-tomatoes-pesto-restaurant-jpg-97745757.jpg) ;
+    height: 620px;
+    width: 85em;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#img1{
+
+    margin-left: 3em;
+    margin-top: 1em;
+}
+
+#d1{
+
+    background-color: orange;
+    width:85em;
+    height: 5em;
+}
+
+#hed1{
+
+    color: rgb(255, 255, 255);
+    margin-left: 1em;
+    margin-top: 4em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+#hed2{
+    margin-left: 4em;
+    margin-top: -2em;
+}
+
+#hed3{
+
+    margin-left: 2em;
+    color: rgb(205, 40, 40);
+    margin-top: 1em;
+    text-transform: uppercase;
+    
+}
+
+#imgb2{
+
+    background-size: cover;
+    width: 15em;
+    height: 20em;
+    margin-left: 10em;
+    margin-top: 8em;
+}
+
+#divpk{
+
+    border: 3em solid greenyellow;
+    width: 2em;
+    margin-top: -20.2em;
+    margin-left: 9em;
+
+    
+}
+
+#divpk2{
+
+    border: 3em solid greenyellow;
+    width: 5em;
+    margin-top: -6em;
+    margin-left: 25em ;
+
+}
+
+#p1{
+    margin-left: 32em;
+    font-size: small;
+    /* font-size-adjust: unset; */
+}
+
+#bordr{
+
+    border-bottom-left-radius: 20em solid black;
+}
+
+#imgb3{
+
+    background-size: cover;
+    width: 15em;
+    height: 17em;
+    
+    margin-left: 40em;
+    margin-top: -8em;
+    
+}
+
+#bordr2{
+
+    border: 1em   solid red;
+    height: 15em; 
+    width: 0;
+    margin-left: 55em;
+    margin-top: -17.3em;
+}
+
+
+#bordr3{
+
+    border: .6em   solid orange;
+    height: 9em; 
+    width: 0;
+    margin-left: 57em;
+    margin-top: -14em;
+}
+
+
+
+#learm{
+
+    padding-top: 2em;
+    color:red;
+    /* padding-right: -10em; */
+    margin-left: 12em;
+    
+}
+
+#para2{
+
+    color: aliceblue;
+    margin-left: 44em;
+    padding-top: 0em;
+    font-size: 10px;
+
+}
+
+#box1{
+   background-color: beige;
+   
+    width: 15em;
+    height: 21em;
+    margin-left: 3em;
+    margin-top: 3em;
+    opacity: 0.5;
+
+}
+
+#box2{
+    background-color: aliceblue;
+    width: 15em;
+    height: 21em;
+    margin-left: 28em;
+    margin-top: -21em;
+    opacity: 0.5;
+
+}
+
+#box3{
+    
+    background-color: bisque;
+    width: 15em;
+    height: 21em;
+    margin-left: 50em;
+    margin-top: -21em;
+    opacity: 0.5;
+}
+    
+
+
+#backimg2{
+
+    background-image: url(./back3.jpg);
+    background-size: cover;
+    height: 38em;
+    margin-top: 9em;
+    
+}
+
+#tx1{
+
+    font-size: 5em;
+    padding-left: 1em;
+
+}
+
+#base{
+
+    padding-left: 2em;
+    margin-top: -2em;
+    
+}
